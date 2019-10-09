@@ -63,7 +63,7 @@ img:hover{
 	flex-direction: row;
 	flex-wrap: wrap;
 	flex-direction: column;
-	background-image: url('Images/Content1.jpg');
+	background-image: url('https://github.com/aadi285970/aadi285970.github.io/blob/master/Images/Content1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	/*min-height: 300px;

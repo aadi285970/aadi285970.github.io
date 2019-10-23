@@ -36,8 +36,9 @@ img:hover{
 	padding-top:0;
 	padding-left: 0;
 	list-style: none;
+	position: relative;
 }
-#navbar li{
+#navbar ul li{
 	display:inline;
 }
 #navbar a{
@@ -58,12 +59,14 @@ img:hover{
 	text-decoration: none;
 	color: white;
 }
+
+
 .top-container{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
 	flex-direction: column;
-	background-image: url('https://github.com/aadi285970/aadi285970.github.io/blob/master/Images/Content1.jpg');
+	background-image: url('Images/Content1.jpg');
 	background-repeat: no-repeat;
 	background-size: cover;
 	/*min-height: 300px;
